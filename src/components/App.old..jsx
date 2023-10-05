@@ -1,10 +1,10 @@
-import { Component } from 'react';
-import { FeedbackOptions } from './feedbackOptions/FeedbackOptions';
-import { Statistics } from './statistics/Statistics';
-import { Section } from './section/Section';
-import { Notification } from './notification/Notification';
+// import { Component } from 'react';
+// import { FeedbackOptions } from './feedbackOptions/FeedbackOptions';
+// import { Statistics } from './statistics/Statistics';
+// import { Section } from './section/Section';
+// import { Notification } from './notification/Notification';
 
-export class App extends Component {
+// export class App extends Component {
   // state = {
   //   good: 0,
   //   neutral: 0,
@@ -36,7 +36,7 @@ export class App extends Component {
 
 
 
-    render() {
+    // render() {
       // const { good, neutral, bad } = this.state;
           // const totalFeedback = this.countTotalFeedback();
       // const positivePercentage = this.countPositiveFeedbackPercentage();
@@ -66,5 +66,5 @@ export class App extends Component {
     //     </Section>
     //   </div>
     // );
-  }
-}
+//   }
+// }
